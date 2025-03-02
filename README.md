@@ -11,7 +11,6 @@ This project performs a **5W1H** (Who, What, When, Where, Why, How) analysis on 
 - [⚙️ Installation](#installation)
 - [🚀 Usage](#usage)
 - [📊 Results](#results)
-- [🤝 Contributing](#contributing)
 - [📜 License](#license)
 - [📩 Contact](#contact)
 

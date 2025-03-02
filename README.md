@@ -44,7 +44,7 @@ This analysis utilizes TTC delay data from **2022 to 2024**, covering **subways 
 To set up the project, follow these steps 🔧:
 
 ### 1️⃣ Clone the repository 🖥️:
-```bash
+
 git clone https://github.com/Micropolyyy/5w1h-ttc-sdss.git
 cd 5w1h-ttc-sdss
 
